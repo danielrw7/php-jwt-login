@@ -1,7 +1,7 @@
 # php-jwt-login
 A PHP example of a JWT (JSON Web Token) url login
 
-### Installation
+### Setup
 - Install [Composer](https://github.com/composer/composer): `curl -sS https://getcomposer.org/installer | php`
 - Install dependencies: `php composer.phar install`
 
